@@ -16,8 +16,6 @@ The goal is to demonstrate data manipulation, exploratory data analysis (EDA), a
 - Used Pandas for grouping, filtering, and aggregations
 - Analyzed key business metrics such as revenue, quantity, and country-wise performance
 
----
-
 ### 2. Data Cleaning Project
 - Handled missing values and incorrect data
 - Removed invalid entries (e.g., negative quantities)
