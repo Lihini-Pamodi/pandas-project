@@ -1,5 +1,3 @@
-# pandas-project
-
 # Sales Data Analysis Project (Pandas)
 
 ## Objective
